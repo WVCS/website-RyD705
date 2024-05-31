@@ -1,0 +1,56 @@
+body{
+  background-color:#028D51
+}
+
+iframe {
+  float:left; 
+  border-style:ridge;
+}
+
+p {
+  float:left;
+  font-family:Impact;
+  font-size: 20px;
+  text-align:Center;
+  padding: 10px;
+}
+
+br {
+  size: 100px;
+}
+
+h{
+  float: center;
+  font-family:Impact;
+color: white;
+  font-size: 50px;
+  text-align:Center;
+  padding: 10px;
+  border:ridge;
+  border-width: 10px;
+  
+  
+}
+
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family:"Impact";
+  position: fixed;
+    
+}
+
+li{
+  float: left;
+  
+}
+li a{
+  padding: 10px;
+  color: black;
+  border: ridge;
+  
+}
+li a:hover{
+  background-color: grey;
+  
+}
