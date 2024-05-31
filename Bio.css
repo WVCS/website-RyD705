@@ -1,0 +1,52 @@
+
+body{
+  background-color: green;
+}
+
+
+p{
+  font-size:50px;
+  font-family: Georgia;
+  
+
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family:"Impact";
+  position: fixed;
+    
+}
+
+li{
+  float: left;
+  
+}
+li a{
+  padding: 10px;
+  color: black;
+  border: ridge;
+  
+}
+li a:hover{
+  background-color: grey;
+  
+}
+
+t{
+  font-size: 20px;
+  font-family: Arial;
+  border: solid;
+  padding: 10px;
+    
+}
+h{
+  font-size: 20px;
+  font-family: Arial;
+  border: solid;
+  padding: 10px;
+}
+
+img{
+  width: 400px;
+}
